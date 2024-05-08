@@ -1,6 +1,6 @@
 # Gen Z Programming language
 
-## inspired by (insert link here)
+## inspired by https://www.youtube.com/watch?v=54kHE03Gv4E
 
 ### in modern age, many top jobs are at threat, including programming, with layoffs and job displacement. We need more young folks to get into programming; of course, many attempts has been made, such as block code, but it proves unsuccessful...
 
